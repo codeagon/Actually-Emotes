@@ -1,0 +1,80 @@
+{
+    "castanic": {
+        "emote": {
+            "settle": 49,
+            "peace": 50,
+            "gftime": 57,
+            "gftoday": 58,
+            "bow": 74
+        },
+        "item": {
+            "settle": 221019,
+            "peace": 221019,
+            "gftime": 141853,
+            "gftoday": 140004,
+            "bow": 254372
+        }
+    },
+    "popori": {
+        "emote": {
+            "bow": 43,
+            "kitchen": 44,
+            "settle": 51,
+            "peace": 52,
+            "gftime": 59,
+            "gftoday": 60
+        },
+        "item": {
+            "bow": 132298,
+            "kitchen": 132298,
+            "settle": 221948,
+            "peace": 221948,
+            "gftime": 141863,
+            "gftoday": 140005
+        }
+    },
+    "human": {
+        "emote": {
+            "settle": 45,
+            "peace": 46,
+            "gftime": 53,
+            "gftoday": 54,
+            "bow": 76
+        },
+        "item": {
+            "settle": 221017,
+            "peace": 221017,
+            "gftime": 141823,
+            "gftoday": 140001,
+            "bow": 254300
+        }
+    },
+    "highelf": {
+        "emote": {
+            "settle": 47,
+            "peace": 48,
+            "gftoday": 55,
+            "gftime": 56,
+            "bow": 75
+        },
+        "item": {
+            "settle": 221018,
+            "peace": 221018,
+            "gftoday": 141833,
+            "gftime": 140002,
+            "bow": 254324
+        }
+    },
+    "aman": {
+        "emote": {
+            "gftime": 61,
+            "gftoday": 62,
+            "bow": 73
+        },
+        "item": {
+            "gftime": 141843,
+            "gftoday": 140003,
+            "bow": 254348
+        }
+    }
+}

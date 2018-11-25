@@ -1,0 +1,10 @@
+{
+    "disableAutoUpdate": false,
+    "options": {
+        "niceName": "Actually-Emotes"
+    },
+    "servers": [
+        "https://raw.githubusercontent.com/codeagon/Actually-Emotes/master/"
+    ],
+    "supportUrl": "https://discord.gg/EnvYvHn"
+}
