@@ -1,7 +1,12 @@
 {
     "disableAutoUpdate": false,
+    "name": "Actually-Emotes",
+    "author": "Pentagon",
+    "description": "Lets you use any emote",
+    "version": "1.0",
+    "donationUrl": "https://ko-fi.com/codeagon",
     "options": {
-        "niceName": "Actually-Emotes"
+        "niceName": "AE"
     },
     "servers": [
         "https://raw.githubusercontent.com/codeagon/Actually-Emotes/master/"
